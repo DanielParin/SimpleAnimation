@@ -1,0 +1,16 @@
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\net6.0-windows\SimpleAnimation.exe
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\net6.0-windows\SimpleAnimation.deps.json
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\net6.0-windows\SimpleAnimation.runtimeconfig.json
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\net6.0-windows\SimpleAnimation.dll
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\bin\Debug\net6.0-windows\SimpleAnimation.pdb
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.dll
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\refint\SimpleAnimation.dll
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.pdb
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\ref\SimpleAnimation.dll
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.Animation.resources
+C:\Users\Daniel\source\repos\SimpleAnimation\SimpleAnimation\obj\Debug\net6.0-windows\SimpleAnimation.csproj.GenerateResource.cache
